@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(142,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(123): warning C4715: 'calculateMultiplier': not all control paths return a value
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CT4102Assignment1LunarLander.vcxproj -> C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\Release\CT4102Assignment1LunarLander.exe

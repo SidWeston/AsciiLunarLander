@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(142,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\CT4102Assignment1LunarLander\Utility.h(123): warning C4715: 'calculateMultiplier': not all control paths return a value
+  CT4102Assignment1LunarLander.vcxproj -> C:\Users\FiercePC\Documents\GitHub\test\ct4102-assignment-1-ascii-game-SidWeston\Debug\CT4102Assignment1LunarLander.exe
